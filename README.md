@@ -5,7 +5,7 @@ This app is based on Brian Booden's makeitqlik (http://makeitqlik.com) blog seri
 
 This project includes a Qlik Sense CV app, and a template Excel data source for parameterising the app towards your own career and achievements.
 
-![makeitqlik Qlik Sense CV Summary](https://raw.githubusercontent.com/brianbooden/QlikSenseCV/master/Makeitqlik%20Summary.png)
+![makeitqlik Qlik Sense CV Summary](https://raw.githubusercontent.com/brianbooden/QlikSenseCV/master/Makeitqlik%20Summary.PNG)
 
 Regards,
 Brian
